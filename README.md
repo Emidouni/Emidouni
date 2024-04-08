@@ -6,8 +6,6 @@ Data Scientist with a background in Reservoir Engineering and Geophysics
 ## Interests
 
 - Machine Learning ![Machine Learning Icon](![image](https://github.com/Emidouni/Emidouni/assets/124258617/fdc6d62f-c261-4986-b0e8-d1f367a346d5)
-)
-)
 - Computer Vision ![Computer Vision Icon](images/cv_icon.png)
 - OCR ![OCR Icon](images/ocr_icon.png)
 - Natural Language Processing ![NLP Icon](images/nlp_icon.png)

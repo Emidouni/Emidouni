@@ -4,10 +4,7 @@
   <i>Data Scientist with a background in Reservoir Engineering and Geophysics</i>
 </p>
 
-<p align="center">
-  <img src="https://badgen.net/badge/Role/Data%20Scientist/purple?icon=terminal&scale=1.2" />
-  <img src="https://badgen.net/badge/Interests/Machine%20Learning,c%20Vision,OCR,NLP/blue?icon=github&scale=1.2" />
-</p>
+
 
 ## 👀 Interests
 
@@ -16,10 +13,14 @@
 - OCR
 - Natural Language Processing
 
-## 📫 Contact Information
-You can reach me by email at 
+## Contact Information 📫
+- 📧 Email: `eyamidouni15[at]gmail[dot]com`
+- 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/eya-midouni-049066221/)
 
- or via [LinkedIn](https://www.linkedin.com/in/eya-midouni-049066221/).
+---
+
+Feel free to reach out if you're interested in collaborating on projects or if you have any questions or opportunities that align with my interests!
+
 
 
 

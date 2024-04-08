@@ -11,7 +11,8 @@
 - Natural Language Processing
 
 ## 📫 Contact Information
-You can reach me by email at [![Email](https://github.com/Emidouni/Emidouni/assets/124258617/35c7a99d-2854-4107-bb65-e4cdb11d44af =50x50)](mailto:eyamidouni15@gmail.com)
+You can reach me by email at [![Email](![image](https://github.com/Emidouni/Emidouni/assets/124258617/d3491b80-5e43-4227-a052-3de06eab42be)
+ =50x50)](mailto:eyamidouni15@gmail.com)
  or via [LinkedIn](https://www.linkedin.com/in/eya-midouni-049066221/).
 
 

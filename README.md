@@ -3,7 +3,7 @@
 
 Data Scientist with a background in Reservoir Engineering and Geophysics
 
-## Interests
+## 👀 Interests
 
 - Machine Learning 
 - Computer Vision 

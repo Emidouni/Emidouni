@@ -4,7 +4,9 @@
 Data Scientist with a background in Reservoir Engineering and Geophysics
 
 - 💞️ I’m looking to collaborate on projects related to machine learning, computer vision, OCR, and Natural Language Processing.
-- 📫 You can reach me by email at eyamidouni15@gmail.com or via LinkedIn at https://www.linkedin.com/in/eya-midouni-049066221/.
+## Contact Information
+
+You can reach me by email at [eyamidouni15@gmail.com](mailto:eyamidouni15@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/eya-midouni-049066221/).
 
 
 <!---

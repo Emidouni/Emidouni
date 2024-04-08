@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Eya Midouni
 ----------------------------------
 
-Data Scientist with a background in Reservoir Engineering and Geophysics
+      Data Scientist with a background in Reservoir Engineering and Geophysics
 
 ## 👀 Interests
 

@@ -1,7 +1,13 @@
-# 👋 Hi, I’m Eya Midouni
-----------------------------------
+<h1 align="center">👋 Hi, I’m Eya Midouni</h1>
 
-   Data Scientist with a background in Reservoir Engineering and Geophysics
+<p align="center">
+  <i>Data Scientist with a background in Reservoir Engineering and Geophysics</i>
+</p>
+
+<p align="center">
+  <img src="https://badgen.net/badge/Role/Data%20Scientist/purple?icon=terminal&scale=1.2" />
+  <img src="https://badgen.net/badge/Interests/Machine%20Learning,c%20Vision,OCR,NLP/blue?icon=github&scale=1.2" />
+</p>
 
 ## 👀 Interests
 

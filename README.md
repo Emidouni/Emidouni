@@ -3,9 +3,15 @@
 
 Data Scientist with a background in Reservoir Engineering and Geophysics
 
-- 💞️ I’m looking to collaborate on projects related to machine learning, computer vision, OCR, and Natural Language Processing.
-## Contact Information
+## Interests
 
+- Machine Learning ![Machine Learning Icon](![image](https://github.com/Emidouni/Emidouni/assets/124258617/5692b946-0208-4381-add9-248b88d9835a)
+)
+- Computer Vision ![Computer Vision Icon](images/cv_icon.png)
+- OCR ![OCR Icon](images/ocr_icon.png)
+- Natural Language Processing ![NLP Icon](images/nlp_icon.png)
+
+## Contact Information
 You can reach me by email at [eyamidouni15@gmail.com](mailto:eyamidouni15@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/eya-midouni-049066221/).
 
 
